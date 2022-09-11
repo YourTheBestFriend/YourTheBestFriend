@@ -1,4 +1,5 @@
-![Alt text](https://steamcommunity.com/sharedfiles/filedetails/?l=russian&id=1366661990)
+![github](https://user-images.githubusercontent.com/80000258/189546212-c9baa15a-531c-44e5-9541-85cd8a663f5c.gif)
+
 ### Hey I'm Matthew 🐬
 My name is Matthew and I'm System Engineer, Developer and Linux user.  :><>:
 

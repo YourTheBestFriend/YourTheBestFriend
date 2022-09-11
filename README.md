@@ -8,7 +8,6 @@ My name is Matthew and I'm System Engineer, Developer and Linux user :><>:
   - 🎧 Favorite singer is Eminem.
   - 🍀 Fun fact: I know how to get out of vim.
   
-  [![Twitter URL](https://twitter.com/_Matthew_GN?t=F9tg7SjouKvMoMDrcKXARg&s=09)]
   
 <!--
 **YourTheBestFriend/YourTheBestFriend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

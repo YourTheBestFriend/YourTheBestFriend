@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Matthew and I'm System Engineer, Developer and Linux user :_(>_< )_:
+  
+  - 💻 I lern English.
+  - 🗺️ I wanna get experience in IT sphere.
+  - 🐧 I’m currently learning Linux.
+  - 🎧 Favorite singer is Eminem.
+  - 🍀 Fun fact: I know how to get out of vim.
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiYourTheBestFrien=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **YourTheBestFriend/YourTheBestFriend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

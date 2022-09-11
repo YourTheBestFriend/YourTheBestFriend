@@ -1,4 +1,4 @@
-![MyGif](https://steamcommunity.com/sharedfiles/filedetails/?l=russian&id=1366661990)
+![Alt text](https://steamcommunity.com/sharedfiles/filedetails/?l=russian&id=1366661990)
 ### Hey I'm Matthew 🐬
 My name is Matthew and I'm System Engineer, Developer and Linux user.  :><>:
 

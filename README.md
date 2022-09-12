@@ -9,7 +9,6 @@ I'm System Engineer, Developer and Linux user.  :><>:
   - 🎧 Favorite singer is Eminem.
   - 🍀 Fun fact: I know how to get out of vim.
   
-  
 <!--
 **YourTheBestFriend/YourTheBestFriend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
